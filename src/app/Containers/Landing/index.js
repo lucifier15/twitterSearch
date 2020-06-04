@@ -13,6 +13,7 @@ const MainWrapper = styled.div`
             font-size: 70px !important;
             color: #00acee !important;
             line-height: 60px;
+            margin: 0 2px !important;
         }
     }
     .results{

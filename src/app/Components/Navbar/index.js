@@ -17,6 +17,7 @@ const NavContainer = styled.div`
     }
     h1 > i{
         color: #00acee !important;
+        margin: 0 2px !important;
     }
     .search-btn{
         background: #00acee !important;
